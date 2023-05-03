@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+### I'm a master student in National Taipei University 😄
 
 <!--
 **JulieNTPU/JulieNTPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
